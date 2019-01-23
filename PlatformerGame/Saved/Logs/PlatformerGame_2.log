@@ -1,0 +1,921 @@
+﻿Log file open, 01/23/19 17:52:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PlatformerGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.769608
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin FootIK
+LogStreaming: Display: Took  0.290s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.23-16.52.36:901][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Engine.ini]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Engine.ini]
+[2019.01.23-16.52.36:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Engine.ini]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.23-16.52.36:902][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Engine.ini]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.23-16.52.36:903][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.23-16.52.36:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Engine.ini]
+[2019.01.23-16.52.36:904][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Engine.ini]
+[2019.01.23-16.52.36:911][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:911][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.23-16.52.36:911][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.23-16.52.36:912][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.23-16.52.36:913][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.23-16.52.36:914][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.23-16.52.36:915][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.23-16.52.36:916][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.23-16.52.36:916][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.23-16.52.36:916][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.23-16.52.36:916][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.23-16.52.36:916][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.23-16.52.36:916][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.23-16.52.36:916][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:916][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.23-16.52.36:916][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.23-16.52.36:916][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.23-16.52.36:916][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.23-16.52.36:950][  0]LogHAL: Display: Platform has ~ 4 GB [4195418112 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.23-16.52.36:950][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.23-16.52.36:950][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.23-16.52.36:950][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:950][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.23-16.52.36:950][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.23-16.52.36:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.23-16.52.36:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.23-16.52.36:953][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-16.52.36:954][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.23-16.52.36:954][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.23-16.52.36:954][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.23-16.52.36:955][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.23-16.52.36:955][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Engine.ini]
+[2019.01.23-16.52.36:955][  0]LogInit: Computer: SURFACE-DEDERS
+[2019.01.23-16.52.36:955][  0]LogInit: User: Andrea
+[2019.01.23-16.52.36:955][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.23-16.52.36:955][  0]LogInit: High frequency timer resolution =2.435770 MHz
+[2019.01.23-16.52.36:957][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2019.01.23-16.52.36:957][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.23-16.52.36:957][  0]LogMemory: Process Physical Memory: 102.43 MB used, 102.43 MB peak
+[2019.01.23-16.52.36:957][  0]LogMemory: Process Virtual Memory: 92.67 MB used, 92.67 MB peak
+[2019.01.23-16.52.36:957][  0]LogMemory: Physical Memory: 3648.92 MB used,  352.14 MB free, 4001.06 MB total
+[2019.01.23-16.52.36:957][  0]LogMemory: Virtual Memory: 4622.62 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.01.23-16.52.37:093][  0]LogInit: Using OS detected language (fr-FR).
+[2019.01.23-16.52.37:093][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.01.23-16.52.37:101][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.01.23-16.52.37:113][  0]LogStreaming: Display: Took  0.020s to InitEngineTextLocalization.
+[2019.01.23-16.52.37:113][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.23-16.52.37:186][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.23-16.52.37:186][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.23-16.52.38:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.23-16.52.38:217][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.23-16.52.38:237][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2019.01.23-16.52.38:237][  0]LogD3D11RHI:       112/0/2000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.01.23-16.52.38:269][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.23-16.52.38:269][  0]LogD3D11RHI:       0/0/2000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.23-16.52.38:269][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.23-16.52.38:299][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.23-16.52.38:299][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.23-16.52.38:299][  0]LogWindows: EnumDisplayDevices:
+[2019.01.23-16.52.38:300][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2019.01.23-16.52.38:301][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2019.01.23-16.52.38:302][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2019.01.23-16.52.38:303][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.01.23-16.52.38:303][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2019.01.23-16.52.38:303][  0]LogD3D11RHI:   Driver Version: 20.19.15.4568 (internal:20.19.15.4568, unified:20.19.15.4568)
+[2019.01.23-16.52.38:303][  0]LogD3D11RHI:      Driver Date: 12-16-2016
+[2019.01.23-16.52.38:303][  0]LogRHI: Texture pool is 778 MB (70% of 1112 MB)
+[2019.01.23-16.52.38:397][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.01.23-16.52.38:397][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.23-16.52.38:414][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.01.23-16.52.51:590][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.23-16.52.51:652][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.23-16.52.51:702][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.23-16.52.51:758][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.23-16.52.51:818][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.23-16.52.51:880][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.23-16.52.51:929][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.23-16.52.51:993][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.23-16.52.52:022][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.23-16.52.52:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.23-16.52.52:347][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.23-16.52.52:497][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.23-16.52.52:497][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.23-16.52.52:588][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.23-16.52.52:588][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.23-16.52.52:641][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.23-16.52.52:693][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.23-16.52.52:740][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.23-16.52.52:841][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.23-16.52.53:026][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.23-16.52.53:026][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.23-16.52.53:026][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.23-16.52.53:375][  0]LogShaderCompilers: Guid format shader working directory is -54 characters bigger than the processId version (../../../../../../Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Intermediate/Shaders/WorkingDirectory/848/).
+[2019.01.23-16.52.53:375][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andrea/AppData/Local/Temp/UnrealShaderWorkingDir/0DD1F2DB4BFEAEBD16174B82EF5DAD57/'.
+[2019.01.23-16.52.53:386][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.23-16.52.53:387][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.23-16.52.53:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.23-16.52.55:683][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.23-16.52.56:345][  0]LogDerivedDataCache: Loaded boot cache 0.66s 74MB C:/Users/Andrea/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.23-16.52.56:345][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andrea/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.23-16.52.56:345][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.23-16.52.56:345][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.23-16.52.56:362][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../../../../Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/DerivedDataCache/Compressed.ddp.
+[2019.01.23-16.52.56:409][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.23-16.52.56:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.23-16.52.56:409][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.23-16.52.56:423][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andrea/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.23-16.52.56:423][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.23-16.52.56:423][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.23-16.52.56:524][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.23-16.52.56:535][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.23-16.52.56:541][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.23-16.52.56:961][  0]LogAssetRegistry: FAssetRegistry took 0.0752 seconds to start up
+[2019.01.23-16.52.58:643][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.23-16.52.59:656][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.23-16.52.59:697][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.23-16.52.59:698][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.23-16.52.59:699][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.23-16.52.59:699][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.23-16.52.59:767][  0]LogNetVersion: PlatformerGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 42188381)
+[2019.01.23-16.53.02:320][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.384376 seconds
+[2019.01.23-16.53.02:341][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.23-16.53.02:341][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.23-16.53.02:341][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.23-16.53.09:276][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.23-16.53.09:298][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.23-16.53.13:990][  0]LogMaterial: Display: Missing cached shader map for material ClimbMarker, compiling. 
+[2019.01.23-16.53.14:912][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.23-16.53.14:912][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.23-16.53.14:912][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.23-16.53.15:692][  0]LogMaterial: Display: Missing cached shader map for material dust_01, compiling. 
+[2019.01.23-16.53.15:865][  0]LogMaterial: Display: Missing cached shader map for material m_spark, compiling. 
+[2019.01.23-16.53.16:295][  0]LogMaterial: Display: Missing cached shader map for material dirt_01, compiling. 
+[2019.01.23-16.53.16:400][  0]LogMaterial: Display: Missing cached shader map for material M_Robo_02, compiling. 
+[2019.01.23-16.53.16:582][  0]LogMaterial: Display: Missing cached shader map for material M_Robo_01, compiling. 
+[2019.01.23-16.53.17:356][  0]SourceControl: Source control is disabled
+[2019.01.23-16.53.17:357][  0]SourceControl: Source control is disabled
+[2019.01.23-16.53.17:376][  0]SourceControl: Source control is disabled
+[2019.01.23-16.53.17:383][  0]SourceControl: Source control is disabled
+[2019.01.23-16.53.18:059][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.23-16.53.19:920][  0]LogOcInput: OculusInput pre-init called
+[2019.01.23-16.53.20:499][  0]LogEngine: Initializing Engine...
+[2019.01.23-16.53.20:507][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.23-16.53.20:518][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.23-16.53.20:518][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.23-16.53.20:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.01.23-16.53.20:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.23-16.53.21:871][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.23-16.53.22:076][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.23-16.53.22:191][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.23-16.53.23:209][  0]LogInit: FAudioDevice initialized.
+[2019.01.23-16.53.23:210][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.23-16.53.26:658][  0]LogDerivedDataCache: Saved boot cache 3.45s 74MB C:/Users/Andrea/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.23-16.53.26:709][  0]LogInit: Texture streaming: Enabled
+[2019.01.23-16.53.26:974][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.23-16.53.27:132][  0]LogInit: Transaction tracking system initialized
+[2019.01.23-16.53.27:649][  0]BlueprintLog: New page: Editor Load
+[2019.01.23-16.53.28:433][  0]LocalizationService: Localization service is disabled
+[2019.01.23-16.53.31:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Content/' took 0.07s
+[2019.01.23-16.53.31:091][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.23-16.53.31:092][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.23-16.53.31:094][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.23-16.53.31:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.23-16.53.31:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.23-16.53.31:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.23-16.53.31:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.23-16.53.32:148][  0]SourceControl: Source control is disabled
+[2019.01.23-16.53.32:152][  0]LightingResults: New page: Lighting Build
+[2019.01.23-16.53.32:192][  0]MapCheck: New page: Map Check
+[2019.01.23-16.53.32:192][  0]LightingResults: New page: Lighting Build
+[2019.01.23-16.53.39:287][  0]LogMaterial: Display: Missing cached shader map for material fire_smoke_3d, compiling. 
+[2019.01.23-16.53.39:383][  0]LogMaterial: Display: Missing cached shader map for material m_flare_02, compiling. 
+[2019.01.23-16.53.39:450][  0]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2019.01.23-16.53.39:537][  0]LogMaterial: Display: Missing cached shader map for material M_WaterSplash_1, compiling. 
+[2019.01.23-16.53.39:596][  0]LogMaterial: Display: Missing cached shader map for material M_WaterSpray_3, compiling. 
+[2019.01.23-16.53.39:686][  0]LogMaterial: Display: Missing cached shader map for material M_WaterSpray01, compiling. 
+[2019.01.23-16.53.39:783][  0]LogMaterial: Display: Missing cached shader map for material smoke_3d2, compiling. 
+[2019.01.23-16.53.39:880][  0]LogMaterial: Display: Missing cached shader map for material smoke_3d, compiling. 
+[2019.01.23-16.53.39:986][  0]LogMaterial: Display: Missing cached shader map for material M_lightning_01, compiling. 
+[2019.01.23-16.53.40:059][  0]LogMaterial: Display: Missing cached shader map for material m_flare_01, compiling. 
+[2019.01.23-16.53.40:134][  0]LogMaterial: Display: Missing cached shader map for material m_flare_03, compiling. 
+[2019.01.23-16.53.40:453][  0]LogMaterial: Display: Missing cached shader map for material M_Elevator, compiling. 
+[2019.01.23-16.53.40:701][  0]LogMaterial: Display: Missing cached shader map for material M_Frame1_BG, compiling. 
+[2019.01.23-16.53.40:783][  0]LogMaterial: Display: Missing cached shader map for material M_FireHydrant, compiling. 
+[2019.01.23-16.53.40:993][  0]LogMaterial: Display: Missing cached shader map for material M_Car_Cabriolet_01, compiling. 
+[2019.01.23-16.53.41:289][  0]LogMaterial: Display: Missing cached shader map for material Time_Bonus_Mat, compiling. 
+[2019.01.23-16.53.41:669][  0]LogMaterial: Display: Missing cached shader map for material M_Car_Police_01, compiling. 
+[2019.01.23-16.53.41:845][  0]LogMaterial: Display: Missing cached shader map for material M_Props_01, compiling. 
+[2019.01.23-16.53.41:972][  0]LogMaterial: Display: Missing cached shader map for material M_Car_01, compiling. 
+[2019.01.23-16.53.42:090][  0]LogMaterial: Display: Missing cached shader map for material M_Choppa_01, compiling. 
+[2019.01.23-16.53.42:196][  0]LogMaterial: Display: Missing cached shader map for material M_AirScrew_01, compiling. 
+[2019.01.23-16.53.42:335][  0]LogMaterial: Display: Missing cached shader map for material M_Car_01_simple, compiling. 
+[2019.01.23-16.53.42:459][  0]LogMaterial: Display: Missing cached shader map for material M_Car_Damaged, compiling. 
+[2019.01.23-16.53.42:576][  0]LogMaterial: Display: Missing cached shader map for material M_Frame2_BG, compiling. 
+[2019.01.23-16.53.42:615][  0]LogMaterial: Display: Missing cached shader map for material M_Frame3_BG, compiling. 
+[2019.01.23-16.53.42:722][  0]LogMaterial: Display: Missing cached shader map for material Frame3_txt3_Mat, compiling. 
+[2019.01.23-16.53.42:833][  0]LogMaterial: Display: Missing cached shader map for material Frame3_txt2_Mat, compiling. 
+[2019.01.23-16.53.42:974][  0]LogMaterial: Display: Missing cached shader map for material M_Car_012RED2, compiling. 
+[2019.01.23-16.53.43:107][  0]LogMaterial: Display: Missing cached shader map for material M_Shadow_01_TEMP, compiling. 
+[2019.01.23-16.53.43:238][  0]LogMaterial: Display: Missing cached shader map for material M_SceneE_Truck, compiling. 
+[2019.01.23-16.53.43:306][  0]LogMaterial: Display: Missing cached shader map for material M_SceneD_Truck, compiling. 
+[2019.01.23-16.53.43:363][  0]LogMaterial: Display: Missing cached shader map for material M_SceneD_Car, compiling. 
+[2019.01.23-16.53.43:412][  0]LogMaterial: Display: Missing cached shader map for material M_SceneC_Shoot, compiling. 
+[2019.01.23-16.53.43:472][  0]LogMaterial: Display: Missing cached shader map for material M_SceneC_Car, compiling. 
+[2019.01.23-16.53.43:537][  0]LogMaterial: Display: Missing cached shader map for material M_SceneB_Truck, compiling. 
+[2019.01.23-16.53.43:602][  0]LogMaterial: Display: Missing cached shader map for material M_SceneB_Car, compiling. 
+[2019.01.23-16.53.43:668][  0]LogMaterial: Display: Missing cached shader map for material M_SceneA_Truck, compiling. 
+[2019.01.23-16.53.43:731][  0]LogMaterial: Display: Missing cached shader map for material M_SceneA_Smoke, compiling. 
+[2019.01.23-16.53.43:793][  0]LogMaterial: Display: Missing cached shader map for material M_SceneA_Newspaper, compiling. 
+[2019.01.23-16.53.43:868][  0]LogMaterial: Display: Missing cached shader map for material M_SceneA_Car, compiling. 
+[2019.01.23-16.53.43:921][  0]LogMaterial: Display: Missing cached shader map for material M_Frame5_BG, compiling. 
+[2019.01.23-16.53.43:959][  0]LogMaterial: Display: Missing cached shader map for material M_Frame4_BG, compiling. 
+[2019.01.23-16.53.44:009][  0]LogMaterial: Display: Missing cached shader map for material Bridge_01_Dark_Material, compiling. 
+[2019.01.23-16.53.44:134][  0]LogMaterial: Display: Missing cached shader map for material M_Asphalt_01, compiling. 
+[2019.01.23-16.53.44:255][  0]LogMaterial: Display: Missing cached shader map for material Bridge_01_Material, compiling. 
+[2019.01.23-16.53.44:380][  0]LogMaterial: Display: Missing cached shader map for material M_Sidewalk_01, compiling. 
+[2019.01.23-16.53.44:825][  0]LogMaterial: Display: Missing cached shader map for material M_WaterSpray_2, compiling. 
+[2019.01.23-16.53.45:267][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_01_TEMP, compiling. 
+[2019.01.23-16.53.45:839][  0]LogAIModule: Creating AISystem for world Platformer_StreetSection
+[2019.01.23-16.53.46:250][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_StreetSection_Lights) is flushing async loading
+[2019.01.23-16.53.46:250][  0]LogStreaming: Display: Flushing async loaders.
+[2019.01.23-16.53.46:707][  0]LogMaterial: Display: Missing cached shader map for material M_Buildings_set_01, compiling. 
+[2019.01.23-16.53.46:810][  0]LogMaterial: Display: Missing cached shader map for material M_Building_Facade, compiling. 
+[2019.01.23-16.53.46:941][  0]LogMaterial: Display: Missing cached shader map for material M_Distance_Building, compiling. 
+[2019.01.23-16.53.47:224][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_StreetSection_Effects) is flushing async loading
+[2019.01.23-16.53.47:593][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_StreetSection_A) is flushing async loading
+[2019.01.23-16.53.48:286][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Background_01) is flushing async loading
+[2019.01.23-16.53.48:659][  0]LogMaterial: Display: Missing cached shader map for material M_skydome, compiling. 
+[2019.01.23-16.53.48:695][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_01) is flushing async loading
+[2019.01.23-16.53.49:578][  0]LogMaterial: Display: Missing cached shader map for material M_Tree_Dark, compiling. 
+[2019.01.23-16.53.50:274][  0]LogMaterial: Display: Missing cached shader map for material M_Car_Taxi, compiling. 
+[2019.01.23-16.53.50:405][  0]LogMaterial: Display: Missing cached shader map for material M_Grass_01, compiling. 
+[2019.01.23-16.53.50:545][  0]LogMaterial: Display: Missing cached shader map for material M_Car_Body_TEMP, compiling. 
+[2019.01.23-16.53.50:683][  0]LogMaterial: Display: Missing cached shader map for material M_Signs_set_01, compiling. 
+[2019.01.23-16.53.50:807][  0]LogMaterial: Display: Missing cached shader map for material T_Cars_Cards_01_Mat, compiling. 
+[2019.01.23-16.53.51:021][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_02) is flushing async loading
+[2019.01.23-16.53.51:761][  0]LogMaterial: Display: Missing cached shader map for material M_Asphalt_02, compiling. 
+[2019.01.23-16.53.51:896][  0]LogMaterial: Display: Missing cached shader map for material M_Shadow_Gradient, compiling. 
+[2019.01.23-16.53.51:964][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_03) is flushing async loading
+[2019.01.23-16.53.52:436][  0]LogMaterial: Display: Missing cached shader map for material M_Tree_01, compiling. 
+[2019.01.23-16.53.52:595][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Section_3rd) is flushing async loading
+[2019.01.23-16.53.53:106][  0]LogMaterial: Display: Missing cached shader map for material M_Car_012RED, compiling. 
+[2019.01.23-16.53.53:223][  0]LogMaterial: Display: Missing cached shader map for material M_Asphalt_Light, compiling. 
+[2019.01.23-16.53.53:352][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_04) is flushing async loading
+[2019.01.23-16.53.53:662][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_05) is flushing async loading
+[2019.01.23-16.53.54:068][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_06) is flushing async loading
+[2019.01.23-16.53.54:419][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_08) is flushing async loading
+[2019.01.23-16.53.54:686][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_09) is flushing async loading
+[2019.01.23-16.53.55:014][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_10) is flushing async loading
+[2019.01.23-16.53.55:217][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_11) is flushing async loading
+[2019.01.23-16.53.55:465][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_12) is flushing async loading
+[2019.01.23-16.53.55:665][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Platformer_Street_07) is flushing async loading
+[2019.01.23-16.53.55:973][  0]LogMaterial: Display: Missing cached shader map for material M_Props_01, compiling. 
+[2019.01.23-16.53.56:102][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.01.23-16.53.56:561][  0]MapCheck: Repaired painted vertex colors in 0.0s for 1 components in /Game/Maps/Platformer_Street_05.  Resave map to fix. 
+[2019.01.23-16.53.56:561][  0]MapCheck: Repaired painted vertex colors in 0.0s for 1 components in /Game/Maps/Platformer_Street_06.  Resave map to fix. 
+[2019.01.23-16.53.56:562][  0]MapCheck: Warning: Spent 0.0s repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved. 
+[2019.01.23-16.53.56:562][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.23-16.53.56:874][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 310,938ms to complete.
+[2019.01.23-16.53.56:931][  0]LogFileHelpers: Loading map 'Platformer_StreetSection' took 24.783
+[2019.01.23-16.53.57:810][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-16.53.57:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-16.53.57:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-16.53.57:931][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-16.53.58:068][  0]LogCollectionManager: Loaded 0 collections in 0.013601 seconds
+[2019.01.23-16.53.58:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Collections/' took 0.01s
+[2019.01.23-16.53.58:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Content/Developers/Andrea/Collections/' took 0.01s
+[2019.01.23-16.53.58:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Content/Collections/' took 0.01s
+[2019.01.23-16.53.58:200][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.23-16.53.58:258][  0]LogContentBrowser: Native class hierarchy populated in 0.0544 seconds. Added 2665 classes and 632 folders.
+[2019.01.23-16.53.58:326][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0022 seconds. Added 0 classes and 0 folders.
+[2019.01.23-16.53.58:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:405][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.58:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.23-16.53.59:105][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0025 seconds. Added 0 classes and 0 folders.
+[2019.01.23-16.53.59:150][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0023 seconds. Added 1 classes and 2 folders.
+[2019.01.23-16.53.59:508][  0]LogSlate: Took 0.004980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.23-16.53.59:520][  0]LogSlate: Took 0.002566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.23-16.53.59:571][  0]LogSlate: Took 0.003489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.23-16.54.00:141][  0]LogRenderer: Reallocating scene render targets to support 904x508 Format 10 NumSamples 1 (Frame:1).
+[2019.01.23-16.54.01:808][  0]LogRenderer: Warning: Bokeh DOF algorithm is deprecated and will be removed. Consider using the Circle DOF method in post process settings.
+[2019.01.23-16.54.04:093][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0066 seconds. Added 0 classes and 0 folders.
+[2019.01.23-16.54.04:095][  0]LogLoad: (Engine Initialization) Total time: 99.06 seconds
+[2019.01.23-16.54.04:095][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.01 seconds
+[2019.01.23-16.54.04:141][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.23-16.54.04:259][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.23-16.54.04:395][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Content/' took 0.22s
+[2019.01.23-16.54.07:888][ 15]LogAssetRegistry: Asset discovery search completed in 70.9511 seconds
+[2019.01.23-16.54.07:930][ 15]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.23-16.54.07:930][ 15]LogCollectionManager: Fixed up redirectors for 0 collections in 0.001251 seconds (updated 0 objects)
+[2019.01.23-16.55.53:380][ 25]LogSlate: Took 0.009236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.23-16.56.31:080][265]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.23-16.56.35:245][284]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.23-16.57.44:340][595]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.23-16.58.23:237][756]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.23-17.01.23:702][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.23-17.01.23:715][273]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.23-17.01.23:964][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel.Platformer_StreetSection' with GeneratedClass '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel.Platformer_StreetSection'
+[2019.01.23-17.01.23:969][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel.Platformer_StreetSection_Lights' with GeneratedClass '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel.Platformer_StreetSection_Lights'
+[2019.01.23-17.01.23:971][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel.Platformer_StreetSection_Effects' with GeneratedClass '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel.Platformer_StreetSection_Effects'
+[2019.01.23-17.01.23:971][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel.Platformer_StreetSection_A' with GeneratedClass '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel.Platformer_StreetSection_A'
+[2019.01.23-17.01.23:973][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel.Platformer_Background_01' with GeneratedClass '/Game/Maps/Platformer_Background_01.Platformer_Background_01_C' with ClassGeneratedBy '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel.Platformer_Background_01'
+[2019.01.23-17.01.23:974][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel.Platformer_Street_01' with GeneratedClass '/Game/Maps/Platformer_Street_01.Platformer_Street_01_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel.Platformer_Street_01'
+[2019.01.23-17.01.23:974][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel.Platformer_Street_02' with GeneratedClass '/Game/Maps/Platformer_Street_02.Platformer_Street_02_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel.Platformer_Street_02'
+[2019.01.23-17.01.23:975][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel.Platformer_Street_03' with GeneratedClass '/Game/Maps/Platformer_Street_03.Platformer_Street_03_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel.Platformer_Street_03'
+[2019.01.23-17.01.23:975][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel.Platformer_Section_3rd' with GeneratedClass '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd_C' with ClassGeneratedBy '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel.Platformer_Section_3rd'
+[2019.01.23-17.01.23:976][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel.Platformer_Street_04' with GeneratedClass '/Game/Maps/Platformer_Street_04.Platformer_Street_04_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel.Platformer_Street_04'
+[2019.01.23-17.01.23:976][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel.Platformer_Street_05' with GeneratedClass '/Game/Maps/Platformer_Street_05.Platformer_Street_05_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel.Platformer_Street_05'
+[2019.01.23-17.01.23:977][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel.Platformer_Street_06' with GeneratedClass '/Game/Maps/Platformer_Street_06.Platformer_Street_06_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel.Platformer_Street_06'
+[2019.01.23-17.01.23:977][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel.Platformer_Street_08' with GeneratedClass '/Game/Maps/Platformer_Street_08.Platformer_Street_08_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel.Platformer_Street_08'
+[2019.01.23-17.01.23:977][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel.Platformer_Street_09' with GeneratedClass '/Game/Maps/Platformer_Street_09.Platformer_Street_09_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel.Platformer_Street_09'
+[2019.01.23-17.01.23:981][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel.Platformer_Street_10' with GeneratedClass '/Game/Maps/Platformer_Street_10.Platformer_Street_10_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel.Platformer_Street_10'
+[2019.01.23-17.01.23:981][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel.Platformer_Street' with GeneratedClass '/Game/Maps/Platformer_Street_11.Platformer_Street_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel.Platformer_Street'
+[2019.01.23-17.01.23:981][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel.Platformer_Street_12' with GeneratedClass '/Game/Maps/Platformer_Street_12.Platformer_Street_12_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel.Platformer_Street_12'
+[2019.01.23-17.01.23:982][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel.Platformer_Street_07' with GeneratedClass '/Game/Maps/Platformer_Street_07.Platformer_Street_07_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel.Platformer_Street_07'
+[2019.01.23-17.01.24:022][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.23-17.01.24:097][273]PIE: New page: PIE session: Platformer_StreetSection (23 janv. 2019 19:01:24)
+[2019.01.23-17.01.24:252][273]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Platformer_StreetSection
+[2019.01.23-17.01.26:239][273]LogPlayLevel: PIE: StaticDuplicateObject took: (1.966898s)
+[2019.01.23-17.01.26:405][273]LogAIModule: Creating AISystem for world Platformer_StreetSection
+[2019.01.23-17.01.26:438][273]LogPlayLevel: PIE: World Init took: (0.198785s)
+[2019.01.23-17.01.26:439][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Platformer_StreetSection.Platformer_StreetSection to /Game/Maps/UEDPIE_0_Platformer_StreetSection.Platformer_StreetSection (2.188479s)
+[2019.01.23-17.01.27:573][273]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.23-17.01.32:640][273]LogInit: FAudioDevice initialized.
+[2019.01.23-17.01.32:820][273]LogLoad: Game class is 'PlatformerGameMode'
+[2019.01.23-17.01.33:773][273]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Platformer_StreetSection.Platformer_StreetSection up for play (max tick rate 60) at 2019.01.23-18.01.33
+[2019.01.23-17.01.33:856][273]LogWorld: Bringing up level for play took: 0.160399
+[2019.01.23-17.01.34:025][273]LogContentBrowser: Native class hierarchy updated for 'GameMenuBuilder' in 0.0285 seconds. Added 1 classes and 0 folders.
+[2019.01.23-17.01.34:058][273]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-17.01.34:060][273]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.23-17.01.34:060][273]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.23-17.01.34:060][273]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-17.01.34:060][273]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.23-17.01.34:061][273]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-17.01.34:063][273]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.23-17.01.34:064][273]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.23-17.01.34:066][273]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.23-17.01.34:066][273]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.23-17.01.34:067][273]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.23-17.01.34:067][273]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.23-17.01.34:068][273]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.23-17.01.34:068][273]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.23-17.01.34:069][273]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.23-17.01.34:070][273]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.23-17.01.34:071][273]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.23-17.01.34:071][273]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.23-17.01.34:071][273]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.23-17.01.34:071][273]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.23-17.01.34:072][273]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.23-17.01.34:072][273]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.23-17.01.34:072][273]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.23-17.01.34:072][273]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.23-17.01.34:072][273]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-17.01.34:072][273]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.23-17.01.34:072][273]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.23-17.01.34:073][273]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.23-17.01.34:073][273]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.23-17.01.34:073][273]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.23-17.01.34:073][273]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.23-17.01.34:074][273]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.23-17.01.34:074][273]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.23-17.01.34:074][273]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.23-17.01.34:074][273]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.23-17.01.34:074][273]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.23-17.01.34:074][273]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.23-17.01.34:075][273]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.23-17.01.34:075][273]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.23-17.01.34:075][273]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.23-17.01.34:076][273]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.23-17.01.34:076][273]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.23-17.01.34:076][273]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.23-17.01.34:077][273]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.23-17.01.34:077][273]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.23-17.01.34:077][273]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.23-17.01.34:078][273]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.23-17.01.34:079][273]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.23-17.01.34:079][273]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.23-17.01.34:079][273]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.23-17.01.34:079][273]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.23-17.01.34:080][273]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.23-17.01.34:080][273]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.23-17.01.34:080][273]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.23-17.01.34:080][273]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.23-17.01.34:080][273]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-17.01.34:080][273]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.23-17.01.34:081][273]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.23-17.01.34:081][273]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.23-17.01.34:081][273]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.23-17.01.34:081][273]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.23-17.01.34:082][273]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.23-17.01.34:082][273]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.23-17.01.34:082][273]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.23-17.01.34:082][273]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-17.01.34:082][273]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.23-17.01.34:082][273]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.23-17.01.34:082][273]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.23-17.01.34:083][273]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.23-17.01.34:083][273]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.23-17.01.34:083][273]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.23-17.01.34:083][273]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.23-17.01.34:084][273]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.23-17.01.34:084][273]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.23-17.01.34:084][273]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.23-17.01.34:084][273]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.23-17.01.34:084][273]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.23-17.01.34:084][273]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.23-17.01.34:084][273]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.23-17.01.34:085][273]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.23-17.01.34:085][273]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.23-17.01.34:431][273]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0088 seconds. Added 20 classes and 0 folders.
+[2019.01.23-17.01.34:517][273]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_01 1 1 0
+[2019.01.23-17.01.34:547][273]LogStreaming: Warning: Failed to read file '../../../../../../Users/Andrea/Desktop/ENSC/Unreal Engine/unreal-engine-platformer-game/PlatformerGame/Saved/SaveGames/PlatformerSave.sav' error.
+[2019.01.23-17.01.34:603][273]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Platformer_StreetSection 11,001
+[2019.01.23-17.01.34:608][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel.Platformer_StreetSection' with GeneratedClass '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel.Platformer_StreetSection'
+[2019.01.23-17.01.34:609][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel.Platformer_StreetSection_Lights' with GeneratedClass '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel.Platformer_StreetSection_Lights'
+[2019.01.23-17.01.34:610][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel.Platformer_StreetSection_Effects' with GeneratedClass '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel.Platformer_StreetSection_Effects'
+[2019.01.23-17.01.34:610][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel.Platformer_StreetSection_A' with GeneratedClass '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel.Platformer_StreetSection_A'
+[2019.01.23-17.01.34:610][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel.Platformer_Background_01' with GeneratedClass '/Game/Maps/Platformer_Background_01.Platformer_Background_01_C' with ClassGeneratedBy '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel.Platformer_Background_01'
+[2019.01.23-17.01.34:611][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel.Platformer_Street_01' with GeneratedClass '/Game/Maps/Platformer_Street_01.Platformer_Street_01_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel.Platformer_Street_01'
+[2019.01.23-17.01.34:611][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel.Platformer_Street_02' with GeneratedClass '/Game/Maps/Platformer_Street_02.Platformer_Street_02_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel.Platformer_Street_02'
+[2019.01.23-17.01.34:611][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel.Platformer_Street_03' with GeneratedClass '/Game/Maps/Platformer_Street_03.Platformer_Street_03_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel.Platformer_Street_03'
+[2019.01.23-17.01.34:611][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel.Platformer_Section_3rd' with GeneratedClass '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd_C' with ClassGeneratedBy '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel.Platformer_Section_3rd'
+[2019.01.23-17.01.34:612][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel.Platformer_Street_04' with GeneratedClass '/Game/Maps/Platformer_Street_04.Platformer_Street_04_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel.Platformer_Street_04'
+[2019.01.23-17.01.34:612][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel.Platformer_Street_05' with GeneratedClass '/Game/Maps/Platformer_Street_05.Platformer_Street_05_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel.Platformer_Street_05'
+[2019.01.23-17.01.34:612][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel.Platformer_Street_06' with GeneratedClass '/Game/Maps/Platformer_Street_06.Platformer_Street_06_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel.Platformer_Street_06'
+[2019.01.23-17.01.34:612][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel.Platformer_Street_08' with GeneratedClass '/Game/Maps/Platformer_Street_08.Platformer_Street_08_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel.Platformer_Street_08'
+[2019.01.23-17.01.34:613][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel.Platformer_Street_09' with GeneratedClass '/Game/Maps/Platformer_Street_09.Platformer_Street_09_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel.Platformer_Street_09'
+[2019.01.23-17.01.34:613][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel.Platformer_Street_10' with GeneratedClass '/Game/Maps/Platformer_Street_10.Platformer_Street_10_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel.Platformer_Street_10'
+[2019.01.23-17.01.34:613][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel.Platformer_Street' with GeneratedClass '/Game/Maps/Platformer_Street_11.Platformer_Street_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel.Platformer_Street'
+[2019.01.23-17.01.34:614][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel.Platformer_Street_12' with GeneratedClass '/Game/Maps/Platformer_Street_12.Platformer_Street_12_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel.Platformer_Street_12'
+[2019.01.23-17.01.34:614][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel.Platformer_Street_07' with GeneratedClass '/Game/Maps/Platformer_Street_07.Platformer_Street_07_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel.Platformer_Street_07'
+[2019.01.23-17.01.34:661][273]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.056015 > MaxSimulationTimeStep (0.050) for 'PlayerPawn_C_0', movement 'Walking'
+[2019.01.23-17.01.37:035][274]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_Platformer_Street_01 took (less than) 36.34 ms
+[2019.01.23-17.01.39:282][275]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_Platformer_Street_01 took (less than) 27.95 ms
+[2019.01.23-17.01.39:908][280]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_02 1 1 0
+[2019.01.23-17.01.40:485][283]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_03 1 1 0
+[2019.01.23-17.02.34:110][454]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_02 1 1 0
+[2019.01.23-17.02.34:112][454]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_03 1 1 0
+[2019.01.23-17.02.35:930][460]Cmd: slomo 0.459055
+[2019.01.23-17.02.36:255][461]Cmd: slomo 0.182278
+[2019.01.23-17.02.36:530][462]Cmd: slomo 0.100212
+[2019.01.23-17.02.36:531][462]Cmd: slomo 0.1
+[2019.01.23-17.02.37:200][464]Cmd: slomo 0.1
+[2019.01.23-17.02.37:204][464]Cmd: slomo 0.165328
+[2019.01.23-17.02.37:522][465]Cmd: slomo 0.260755
+[2019.01.23-17.02.37:879][466]Cmd: slomo 0.428725
+[2019.01.23-17.02.38:181][467]Cmd: slomo 0.660564
+[2019.01.23-17.02.38:489][468]Cmd: slomo 1.0
+[2019.01.23-17.02.38:491][468]Cmd: slomo 1
+[2019.01.23-17.02.39:852][472]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058987 > MaxSimulationTimeStep (0.050) for 'PlayerPawn_C_0', movement 'Walking'
+[2019.01.23-17.02.40:424][474]Cmd: slomo 0.401257
+[2019.01.23-17.02.40:750][475]Cmd: slomo 0.162979
+[2019.01.23-17.02.41:060][476]Cmd: slomo 0.100212
+[2019.01.23-17.02.41:061][476]Cmd: slomo 0.1
+[2019.01.23-17.02.41:668][478]Cmd: slomo 0.1
+[2019.01.23-17.02.41:673][478]Cmd: slomo 0.156635
+[2019.01.23-17.02.42:064][479]Cmd: slomo 0.268132
+[2019.01.23-17.02.42:399][480]Cmd: slomo 0.419178
+[2019.01.23-17.02.42:680][481]Cmd: slomo 0.645867
+[2019.01.23-17.02.43:101][482]Cmd: slomo 1.0
+[2019.01.23-17.02.43:104][482]Cmd: slomo 1
+[2019.01.23-17.02.43:275][483]LogPlatformer: Collision with BlockingVolume30, normal=(-1.000000,0.000000,0.000000), dot=-1.000000, Walking
+[2019.01.23-17.02.43:902][485]LogPlatformer: Climb over obstacle, Z difference: 366.977325 (big)
+[2019.01.23-17.02.48:119][498]Cmd: slomo 0.38125
+[2019.01.23-17.02.48:453][499]Cmd: slomo 0.149132
+[2019.01.23-17.02.48:797][500]Cmd: slomo 0.100212
+[2019.01.23-17.02.48:800][500]Cmd: slomo 0.1
+[2019.01.23-17.02.49:461][502]Cmd: slomo 0.1
+[2019.01.23-17.02.49:466][502]Cmd: slomo 0.158275
+[2019.01.23-17.02.49:762][503]Cmd: slomo 0.244479
+[2019.01.23-17.02.50:276][504]Cmd: slomo 0.42074
+[2019.01.23-17.02.50:389][505]Cmd: slomo 0.50628
+[2019.01.23-17.02.50:694][506]Cmd: slomo 0.788028
+[2019.01.23-17.02.51:005][507]Cmd: slomo 1.0
+[2019.01.23-17.02.51:006][507]Cmd: slomo 1
+[2019.01.23-17.02.51:591][509]LogPlatformer: Collision with ExplodingCarBP_C_3, normal=(-0.998682,0.000000,0.051318), dot=-0.998682, Walking
+[2019.01.23-17.02.52:422][511]LogPlatformer: Climb over obstacle, Z difference: 107.360352 (small)
+[2019.01.23-17.02.55:450][521]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_01 0 0 0
+[2019.01.23-17.02.56:264][522]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_04 1 1 0
+[2019.01.23-17.03.04:041][527]LogPlatformer: Collision with BlockingVolume25, normal=(-1.000000,0.000000,0.000000), dot=-1.000000, Walking
+[2019.01.23-17.03.04:043][527]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.081078 > MaxSimulationTimeStep (0.050) for 'PlayerPawn_C_0', movement 'Falling'
+[2019.01.23-17.03.04:047][527]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_05 1 1 0
+[2019.01.23-17.03.04:505][528]LogPlatformer: Collision with BlockingVolume25, normal=(-1.000000,0.000000,0.000000), dot=-1.000000, Walking
+[2019.01.23-17.03.04:577][529]LogPlatformer: Climb over obstacle, Z difference: 225.345612 (mid)
+[2019.01.23-17.03.08:028][540]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_02 0 0 0
+[2019.01.23-17.03.08:942][541]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_05 1 1 0
+[2019.01.23-17.03.09:077][542]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057726 > MaxSimulationTimeStep (0.050) for 'PlayerPawn_C_0', movement 'Walking'
+[2019.01.23-17.03.10:545][548]LogPlatformer: Collision with BlockingVolume26_40, normal=(-0.999630,0.000000,-0.027206), dot=-0.999630, Walking
+[2019.01.23-17.03.11:243][550]LogPlatformer: Climb over obstacle, Z difference: 397.850006 (big)
+[2019.01.23-17.03.13:520][557]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_03 0 0 0
+[2019.01.23-17.03.14:589][559]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_06 1 1 0
+[2019.01.23-17.03.16:049][564]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_07 1 1 0
+[2019.01.23-17.03.16:414][564]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_Platformer_Street_07 took (less than) 44.92 ms
+[2019.01.23-17.03.17:397][568]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_08 1 1 0
+[2019.01.23-17.03.17:742][568]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_Platformer_Street_08 took (less than) 31.71 ms
+[2019.01.23-17.03.19:171][572]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_04 0 0 0
+[2019.01.23-17.03.19:497][573]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Street_10 1 1 0
+[2019.01.23-17.03.25:455][575]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Platformer_Section_3rd 1 1 0
+[2019.01.23-17.03.26:740][578]LogPlatformer: Collision with BlockingVolume_7, normal=(-1.000000,0.000000,0.000000), dot=-1.000000, Walking
+[2019.01.23-17.03.27:658][581]LogPlatformer: Climb over obstacle, Z difference: 264.416443 (mid)
+[2019.01.23-17.03.28:988][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel.Platformer_StreetSection' with GeneratedClass '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel.Platformer_StreetSection'
+[2019.01.23-17.03.28:989][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel.Platformer_StreetSection_Lights' with GeneratedClass '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel.Platformer_StreetSection_Lights'
+[2019.01.23-17.03.28:990][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel.Platformer_StreetSection_Effects' with GeneratedClass '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel.Platformer_StreetSection_Effects'
+[2019.01.23-17.03.28:990][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel.Platformer_StreetSection_A' with GeneratedClass '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel.Platformer_StreetSection_A'
+[2019.01.23-17.03.28:990][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel.Platformer_Background_01' with GeneratedClass '/Game/Maps/Platformer_Background_01.Platformer_Background_01_C' with ClassGeneratedBy '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel.Platformer_Background_01'
+[2019.01.23-17.03.28:991][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel.Platformer_Street_01' with GeneratedClass '/Game/Maps/Platformer_Street_01.Platformer_Street_01_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel.Platformer_Street_01'
+[2019.01.23-17.03.28:991][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel.Platformer_Street_02' with GeneratedClass '/Game/Maps/Platformer_Street_02.Platformer_Street_02_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel.Platformer_Street_02'
+[2019.01.23-17.03.28:991][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel.Platformer_Street_03' with GeneratedClass '/Game/Maps/Platformer_Street_03.Platformer_Street_03_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel.Platformer_Street_03'
+[2019.01.23-17.03.28:991][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel.Platformer_Section_3rd' with GeneratedClass '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd_C' with ClassGeneratedBy '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel.Platformer_Section_3rd'
+[2019.01.23-17.03.28:992][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel.Platformer_Street_04' with GeneratedClass '/Game/Maps/Platformer_Street_04.Platformer_Street_04_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel.Platformer_Street_04'
+[2019.01.23-17.03.28:993][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel.Platformer_Street_05' with GeneratedClass '/Game/Maps/Platformer_Street_05.Platformer_Street_05_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel.Platformer_Street_05'
+[2019.01.23-17.03.28:993][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel.Platformer_Street_06' with GeneratedClass '/Game/Maps/Platformer_Street_06.Platformer_Street_06_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel.Platformer_Street_06'
+[2019.01.23-17.03.28:993][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel.Platformer_Street_08' with GeneratedClass '/Game/Maps/Platformer_Street_08.Platformer_Street_08_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel.Platformer_Street_08'
+[2019.01.23-17.03.28:993][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel.Platformer_Street_09' with GeneratedClass '/Game/Maps/Platformer_Street_09.Platformer_Street_09_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel.Platformer_Street_09'
+[2019.01.23-17.03.28:994][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel.Platformer_Street_10' with GeneratedClass '/Game/Maps/Platformer_Street_10.Platformer_Street_10_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel.Platformer_Street_10'
+[2019.01.23-17.03.28:994][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel.Platformer_Street' with GeneratedClass '/Game/Maps/Platformer_Street_11.Platformer_Street_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel.Platformer_Street'
+[2019.01.23-17.03.28:994][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel.Platformer_Street_12' with GeneratedClass '/Game/Maps/Platformer_Street_12.Platformer_Street_12_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel.Platformer_Street_12'
+[2019.01.23-17.03.28:995][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel.Platformer_Street_07' with GeneratedClass '/Game/Maps/Platformer_Street_07.Platformer_Street_07_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel.Platformer_Street_07'
+[2019.01.23-17.03.29:014][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-17.03.29:284][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.23-17.03.29:289][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel.Platformer_StreetSection' with GeneratedClass '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection.Platformer_StreetSection:PersistentLevel.Platformer_StreetSection'
+[2019.01.23-17.03.29:290][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel.Platformer_StreetSection_Lights' with GeneratedClass '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_Lights.Platformer_StreetSection_Lights:PersistentLevel.Platformer_StreetSection_Lights'
+[2019.01.23-17.03.29:290][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel.Platformer_StreetSection_Effects' with GeneratedClass '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_Effects.Platformer_StreetSection_Effects:PersistentLevel.Platformer_StreetSection_Effects'
+[2019.01.23-17.03.29:290][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel.Platformer_StreetSection_A' with GeneratedClass '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A_C' with ClassGeneratedBy '/Game/Maps/Platformer_StreetSection_A.Platformer_StreetSection_A:PersistentLevel.Platformer_StreetSection_A'
+[2019.01.23-17.03.29:291][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel.Platformer_Background_01' with GeneratedClass '/Game/Maps/Platformer_Background_01.Platformer_Background_01_C' with ClassGeneratedBy '/Game/Maps/Platformer_Background_01.Platformer_Background_01:PersistentLevel.Platformer_Background_01'
+[2019.01.23-17.03.29:291][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel.Platformer_Street_01' with GeneratedClass '/Game/Maps/Platformer_Street_01.Platformer_Street_01_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_01.Platformer_Street_01:PersistentLevel.Platformer_Street_01'
+[2019.01.23-17.03.29:292][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel.Platformer_Street_02' with GeneratedClass '/Game/Maps/Platformer_Street_02.Platformer_Street_02_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_02.Platformer_Street_02:PersistentLevel.Platformer_Street_02'
+[2019.01.23-17.03.29:292][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel.Platformer_Street_03' with GeneratedClass '/Game/Maps/Platformer_Street_03.Platformer_Street_03_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_03.Platformer_Street_03:PersistentLevel.Platformer_Street_03'
+[2019.01.23-17.03.29:292][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel.Platformer_Section_3rd' with GeneratedClass '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd_C' with ClassGeneratedBy '/Game/Maps/Platformer_Section_3rd.Platformer_Section_3rd:PersistentLevel.Platformer_Section_3rd'
+[2019.01.23-17.03.29:293][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel.Platformer_Street_04' with GeneratedClass '/Game/Maps/Platformer_Street_04.Platformer_Street_04_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_04.Platformer_Street_04:PersistentLevel.Platformer_Street_04'
+[2019.01.23-17.03.29:293][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel.Platformer_Street_05' with GeneratedClass '/Game/Maps/Platformer_Street_05.Platformer_Street_05_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_05.Platformer_Street_05:PersistentLevel.Platformer_Street_05'
+[2019.01.23-17.03.29:294][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel.Platformer_Street_06' with GeneratedClass '/Game/Maps/Platformer_Street_06.Platformer_Street_06_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_06.Platformer_Street_06:PersistentLevel.Platformer_Street_06'
+[2019.01.23-17.03.29:294][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel.Platformer_Street_08' with GeneratedClass '/Game/Maps/Platformer_Street_08.Platformer_Street_08_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_08.Platformer_Street_08:PersistentLevel.Platformer_Street_08'
+[2019.01.23-17.03.29:295][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel.Platformer_Street_09' with GeneratedClass '/Game/Maps/Platformer_Street_09.Platformer_Street_09_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_09.Platformer_Street_09:PersistentLevel.Platformer_Street_09'
+[2019.01.23-17.03.29:295][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel.Platformer_Street_10' with GeneratedClass '/Game/Maps/Platformer_Street_10.Platformer_Street_10_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_10.Platformer_Street_10:PersistentLevel.Platformer_Street_10'
+[2019.01.23-17.03.29:296][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel.Platformer_Street' with GeneratedClass '/Game/Maps/Platformer_Street_11.Platformer_Street_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_11.Platformer_Street_11:PersistentLevel.Platformer_Street'
+[2019.01.23-17.03.29:296][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel.Platformer_Street_12' with GeneratedClass '/Game/Maps/Platformer_Street_12.Platformer_Street_12_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_12.Platformer_Street_12:PersistentLevel.Platformer_Street_12'
+[2019.01.23-17.03.29:297][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel.Platformer_Street_07' with GeneratedClass '/Game/Maps/Platformer_Street_07.Platformer_Street_07_C' with ClassGeneratedBy '/Game/Maps/Platformer_Street_07.Platformer_Street_07:PersistentLevel.Platformer_Street_07'
+[2019.01.23-17.03.29:791][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-17.03.31:187][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.23-17.03.31:193][586]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.23-17.08.44:204][ 65]LogShaderCompilers: Display: Shaders left to compile 1851
+[2019.01.23-17.09.43:578][344]LogSlate: Window 'PlatformerGame - Unreal Editor' being destroyed
+[2019.01.23-17.09.45:504][345]Cmd: QUIT_EDITOR
+[2019.01.23-17.09.48:849][345]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.23-17.09.54:006][345]LogExit: Preparing to exit.
+[2019.01.23-17.10.00:493][345]LogShaderCompilers: Display: Shaders left to compile 1841
