@@ -1,0 +1,8 @@
+{
+	"BuildId": "4541578",
+	"Modules": 
+	{
+		"PlatformerGame": "UE4Editor-PlatformerGame.dll",
+		"PlatformerGameLoadingScreen": "UE4Editor-PlatformerGameLoadingScreen.dll"
+	}
+}

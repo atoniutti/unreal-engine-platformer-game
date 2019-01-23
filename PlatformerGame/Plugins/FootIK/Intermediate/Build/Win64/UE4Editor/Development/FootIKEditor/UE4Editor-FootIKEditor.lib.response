@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FootIKEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Build\++UE4\Sync\LocalBuilds\PlatformerGame\Windows\Intermediate\Build\Win64\PlatformerGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\Build\++UE4\Sync\LocalBuilds\PlatformerGame\Windows\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\Module.FootIKEditor.cpp.obj"
+"D:\Build\++UE4\Sync\LocalBuilds\PlatformerGame\Windows\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\Module.FootIKEditor.gen.cpp.obj"
+"D:\Build\++UE4\Sync\LocalBuilds\PlatformerGame\Windows\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\PCLaunch.rc.res"
+/OUT:"D:\Build\++UE4\Sync\LocalBuilds\PlatformerGame\Windows\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\UE4Editor-FootIKEditor.lib"

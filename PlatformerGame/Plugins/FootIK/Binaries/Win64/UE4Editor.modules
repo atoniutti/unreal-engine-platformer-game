@@ -1,0 +1,8 @@
+{
+	"BuildId": "4541578",
+	"Modules": 
+	{
+		"FootIKEditor": "UE4Editor-FootIKEditor.dll",
+		"FootIKRuntime": "UE4Editor-FootIKRuntime.dll"
+	}
+}
